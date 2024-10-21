@@ -1,0 +1,7 @@
+# Elasticsearch basic configuration
+cluster.name: my-cluster
+node.name: my-node
+path.data: /var/lib/elasticsearch
+path.logs: /var/log/elasticsearch
+network.host: 0.0.0.0
+http.port: 9200
