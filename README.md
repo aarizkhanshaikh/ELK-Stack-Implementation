@@ -1,6 +1,3 @@
-Here's a simple guide you can add to your **GitHub `README.md`** file for your **Basic ELK Stack Implementation in Kali Linux**:
-
-```markdown
 # Basic ELK Stack Implementation in Kali Linux
 
 This project involves the setup and deployment of the ELK (Elasticsearch, Logstash, Kibana) stack on Kali Linux for centralized logging and monitoring in a cybersecurity environment. It uses Elasticsearch to store and search logs, Logstash to collect and parse them, and Kibana to visualize the data.
