@@ -2,6 +2,8 @@
 
 This project involves the setup and deployment of the ELK (Elasticsearch, Logstash, Kibana) stack on Kali Linux for centralized logging and monitoring in a cybersecurity environment. It uses Elasticsearch to store and search logs, Logstash to collect and parse them, and Kibana to visualize the data.
 
+Don't forget to explore above files, they are there to make the implementation easier.
+
 ## Technologies Used:
 - **Elasticsearch**
 - **Logstash**
